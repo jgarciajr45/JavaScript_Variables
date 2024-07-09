@@ -4,7 +4,24 @@ console.log(
 );
 
 // Exercise 1
-
+//const firstName;
+//let lastName;
+var age;
 // Exercise 2
-
+const firstName = 'Jesus';
+let lastName = 'Garcia';
+var age = 40
 // Exercise 3
+let language = "JavaScript";
+let createdYear = 1995;
+let isCaseSensitive = true;
+
+let price = 19.99;
+let isOnSale = false;
+let salePercentage = 15;
+let stock = 0;
+let inStock = false;
+let selectedSize = "M";
+
+let title = "Name of the Wind";
+let author = "Patrick Rothfuss";
